@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+      <title>SG SOD/D.G.F.</title>
+      <meta name="keywords" content="SG SOD">
+      <meta name="description" content="SG SOD">
+      <meta name="author" content="REYTAN">
+
+      <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div id="top"></DIV>
+	
+	<div id="menu" align="center">
+		<a href="index.html"> &#9762; <font style="font-style: italic">Strona Główna</font> &#9762; </a>
+		<a href="about.html">&#9762; <font style="font-style: italic"> Rekrutacja </font> &#9762;</a>
+	</div>
+
+
+
+
+     <div id="galeria">
+					<div id="cytat">
+	<video width="800" height="450" controls>
+  <source src="images/video.mp4" type="video/mp4">
+</video>
+	</div>
+				<img src="images/screen1.jpg">	
+				<img src="images/screen2.jpg">
+				<br>
+				<img src="images/screen3.jpg">	
+        		<img src="images/screen4.jpg">	
+				<br>
+				<img src="images/screen5.jpg">	
+				<img src="images/screen6.jpg">
+				<br>				
+				<img src="images/screen7.jpg">	
+				<img src="images/screen8.jpg">
+				<br>
+				<img src="images/screen9.jpg">	
+				<img src="images/screen10.jpg">	
+				<br>
+				<img src="images/screen11.jpg">
+				<img src="images/screen12.jpg">	
+				<br>
+				<img src="images/screen13.jpg">	
+				<img src="images/screen14.jpg">	
+				<br>
+				<img src="images/screen15.jpg">	
+				<img src="images/screen16.jpg">	
+				<br>
+				<img src="images/screen17.jpg">	
+				<img src="images/screen18.jpg">	
+				<br>
+				<img src="images/screen19.jpg">	
+				<img src="images/screen20.jpg">	
+				<br>
+				<img src="images/screen21.jpg">	
+				<img src="images/screen22.jpg">	
+				<br>
+				<img src="images/screen23.jpg">	
+				<img src="images/screen24.jpg">	
+				<br>
+				<img src="images/screen25.jpg">	
+				<img src="images/screen26.jpg"> 
+				<br>
+				<img src="images/screen27.jpg">	
+				<img src="images/screen28.jpg">	
+				<br>
+				<img src="images/screen29.jpg">		
+				<img src="images/screen30.jpg">	
+				<br>
+				<img src="images/screen31.jpg">
+				<img src="images/screen32.jpg">	
+				<br>
+				<img src="images/screen33.jpg">	
+				<img src="images/screen34.jpg">	
+				<br>
+				<img src="images/screen35.jpg">	
+				<img src="images/screen36.jpg">	
+				<br>
+				<img src="images/screen37.jpg">	
+				<img src="images/screen38.jpg">	
+				<br>
+				<br>
+				<img src="images/screen39.jpg">	
+				<img src="images/screen40.jpg">
+				<br>
+				<img src="images/screen41.jpg">	
+				<img src="images/screen42.jpg">	
+				<br>
+				<img src="images/screen43.jpg">	
+				<img src="images/screen44.jpg">	
+				<br>
+				<img src="images/screen45.jpg">	
+				<img src="images/screen46.jpg">	
+				<br>
+				<img src="images/screen47.jpg">	
+				<img src="images/screen48.jpg">
+				<br>
+				<img src="images/screen49.jpg">	
+				<img src="images/screen50.jpg">		
+				<br>
+				<img src="images/screen52.jpg">	
+				<img src="images/screen51.jpg">		
+				<br>
+				<img src="images/screen54.jpg">	
+				<img src="images/screen56.jpg">		
+				<br>
+				<img src="images/screen53.jpg">	
+				<img src="images/screen55.jpg">		
+				<br>
+				<img STYLE="HEIGHT: 100%; WIDTH: 100%;" src="images/baner.png">
+ 
+	</div>
+
+</div>
+</div>
+
+	<div id="footer">
+		&Dagger; Made by: SG SOD &Dagger;
+	</div>
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById("myImg");
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+</script>
+   </body>
+   </html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+      <title>SG SOD/D.G.F.</title>
+      <meta name="keywords" content="SG SOD, DGF">
+      <meta name="description" content="SG SOD, DGF">
+      <meta name="author" content="REYTAN">
+
+      <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div id="top"></DIV>
+	
+	<div id="menu" align="center">
+		<a href="index.html"> &#9762; <font style="font-style: italic">Strona Główna</font> &#9762; </a>
+		<a href="gallery.html">&#9762; <font style="font-style: italic"> Galeria </font> &#9762;</a>
+	</div>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<DIV ID="main">
+	<font style="font-family: impact; color: #f0da0f; font-size: 25px; font-style: bold;">
+				<p>	Prowadzimy zróżnicowane pod względem trudności oraz złożoności działania na serwerach należących do innych grup oraz na naszym prywatnym serwerze. </p>
+				<p> Zanim będziesz mógł do nas dołączyć musimy zobaczyć co z Ciebie za ziółko :), rekrutujemy graczy na podstawie: </p>
+				<p>	&#x2022; znajomości w co najmniej stopniu podstawowym zawiłości związanych z rozgrywką zarówno singleplayer jak i multiplayer</p>
+				<p>	&#x2022; umiejętności słuchania poleceń i podejścia do ich realizacji </p>
+				<p> &#x2022; umiejętności kooperacji z członkami grupy <FONT STYLE="COLOR:RED;">( aktywność głosowa WYMAGANA! )</FONT></p>
+				<p> &#x2022; kultury osobistej </p>
+	</font>
+				<div id="ostrzezenie"> <font style="font-family: Road Rage; color: white; font-size: 50px;"> !UWAGA! </font> 
+				<p><font style="font-family: impact; color: lightgray; font-size: 30px; text-align: justify;">	Nie tolerujemy aferowiczów, osób poszukujących ciągłej atencji i usiłujących wymuszania zmian</p>
+				<p> w strukturach/modyfikacjach serwera/grupy z uwagi na głupie kaprysy i humory.Pamiętaj, starzy wyjadacze mają ZAWSZE rację.</font></p> </div>
+<br>
+<br>
+<br>
+<br>
+<div id="ostrzezenie"><font style="font-family: Road Rage; color: white; font-size: 50px; font-style: bold; text-align: center;"> Gry, w których nas znajdziesz:</font></div>
+<img STYLE="HEIGHT: 100%; WIDTH: 100%; border:none;" src="images/bannergames.png">
+</div>	
+
+<br>
+<br>
+<br>
+<br>
+<br>
+		<div id="ostrzezenie"> <font style="color:#f0da0f; font-size: 60px; font-family: impact;">Przydatne linki:</font><br>
+		<a href="https://discord.gg/Bc6fsuK75p" title="D.G.F._DC">  <font style="font-size: 30px;"> &rarr;  Discord D.G.F. </font> </a>
+		<a href="Ts4Game.pl" title="Ts4Game.pl"> <font style="font-size: 30px;"> &rarr; TeamSpeak Ts4Game.pl </font> </a>
+		<a href="https://units.arma3.com/unit/dragonflyeyes" title="D.G.F._Unit"> <font style="font-size: 30px;"> &rarr; D.G.F. Arma Unit </font> </a>
+		<br>
+		<a href="https://www.youtube.com/watch?v=1uV__hV66Sk&ab_channel=NoLifeArea"> <font style="font-size: 30px;"> &rarr;  Arma 3 : ACE3 - Podstawy Snajperskie - 1000m+ </font> </a>
+		
+        </div>
+
+	<div id="footer">
+		&Dagger; Made by: SG SOD &Dagger;
+	</div>
+
+</body>
+</html>
