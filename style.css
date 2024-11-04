@@ -1,6 +1,6 @@
 body
 	{
-	background-color: black;
+	background-color: #3B3021;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100% 100%;
@@ -30,7 +30,7 @@ body
 	
 a
 	{
-	color: #f0da0f;
+	color: #F5B74C;
 	font-family: Impact;
 	text-decoration: none;
 	margin: 40px;
@@ -58,7 +58,7 @@ a:hover
 	{
 	width: 100%;
 	height: 100px;
-	color: #f0da0f;
+	color: #F5B74C;
 	text-align: center;
 	font-family: impact;
 	margin-top: 50px;
@@ -83,7 +83,7 @@ img
 	
 #cytat
 	{
-	color: #f0da0f;
+	color: #F5B74C;
 	font-size: 30px;
 	font-family: impact;
 	padding: 8px 12px;
@@ -151,7 +151,7 @@ p
 
 /* Caption text */
 .text {
-  color: #f0da0f;
+  color: #F5B74C;
   font-size: 30px;
   font-family: impact;
   padding: 8px 12px;
@@ -163,7 +163,7 @@ p
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: #f2f2f2;
+  color: #F5B74C;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
